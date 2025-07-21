@@ -1,10 +1,12 @@
 /*
 
 I've had the basic layout for this application in C++ for a while, as it was a project
-I had started a while back in C++, but never really did anything with it. I had higher
-hopes for it, but I thought it was clunky to store everything in a simple array and not
-a data base, but I don't have that knowledge yet, so I couldn't go where I wanted to go
-with this.
+I had started a while back in C++, but never really did anything with it. So, converting it
+to JavaScript wasn't particularly difficult.
+I had higher hopes for it, but I thought it was clunky to store everything in a simple array
+and did not work with or populate a data base, but I don't have that knowledge yet, so I
+couldn't go where I thought I wanted to go with it.  I'm hopefull as I progress through the
+other Units that I'll be able to shape the vision more completely.
 
 */
 
